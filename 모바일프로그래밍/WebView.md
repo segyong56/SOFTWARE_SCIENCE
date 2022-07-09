@@ -1,9 +1,10 @@
-# 안드로이드_webview
+## 안드로이드_webview
 
-웹뷰는 웹페이지를 보여주는 위젯
+`웹뷰`는 웹페이지를 보여주는 위젯
 웹뷰는 반응형 웹사이트를 안드로이드 디바이스에서 띄워줄 수 있는 기능
 
-매니페스트에 퍼미션 추가
+@ 매니페스트에 퍼미션 추가
+
 ```kotlin
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
